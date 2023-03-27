@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aizan\\source\\repos\\API_Population\\API_Population\\API_Population.csproj": {}
+    "C:\\Users\\aizan\\source\\repos\\API_Project\\source\\repos\\API_Population\\API_Population\\API_Population.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aizan\\source\\repos\\API_Population\\API_Population\\API_Population.csproj": {
+    "C:\\Users\\aizan\\source\\repos\\API_Project\\source\\repos\\API_Population\\API_Population\\API_Population.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aizan\\source\\repos\\API_Population\\API_Population\\API_Population.csproj",
+        "projectUniqueName": "C:\\Users\\aizan\\source\\repos\\API_Project\\source\\repos\\API_Population\\API_Population\\API_Population.csproj",
         "projectName": "API_Population",
-        "projectPath": "C:\\Users\\aizan\\source\\repos\\API_Population\\API_Population\\API_Population.csproj",
+        "projectPath": "C:\\Users\\aizan\\source\\repos\\API_Project\\source\\repos\\API_Population\\API_Population\\API_Population.csproj",
         "packagesPath": "C:\\Users\\aizan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aizan\\source\\repos\\API_Population\\API_Population\\obj\\",
+        "outputPath": "C:\\Users\\aizan\\Source\\Repos\\API_Project\\source\\repos\\API_Population\\API_Population\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aizan\\AppData\\Roaming\\NuGet\\NuGet.Config",
