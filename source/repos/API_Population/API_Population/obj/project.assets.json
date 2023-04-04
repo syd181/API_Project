@@ -11058,19 +11058,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\aizan\\.nuget\\packages\\": {}
+    "C:\\Users\\Mr AKPOVO\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aizan\\source\\repos\\API_Population\\API_Population\\API_Population.csproj",
+      "projectUniqueName": "C:\\Users\\Mr AKPOVO\\Source\\Repos\\API_Project\\source\\repos\\API_Population\\API_Population\\API_Population.csproj",
       "projectName": "API_Population",
-      "projectPath": "C:\\Users\\aizan\\source\\repos\\API_Population\\API_Population\\API_Population.csproj",
-      "packagesPath": "C:\\Users\\aizan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aizan\\source\\repos\\API_Population\\API_Population\\obj\\",
+      "projectPath": "C:\\Users\\Mr AKPOVO\\Source\\Repos\\API_Project\\source\\repos\\API_Population\\API_Population\\API_Population.csproj",
+      "packagesPath": "C:\\Users\\Mr AKPOVO\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Mr AKPOVO\\Source\\Repos\\API_Project\\source\\repos\\API_Population\\API_Population\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\aizan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Mr AKPOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -11138,7 +11138,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
